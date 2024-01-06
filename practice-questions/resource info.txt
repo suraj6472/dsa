@@ -1,2 +1,0 @@
-R1-dsa: https://omkarghotekar.medium.com/30-days-of-code-complete-guide-w-resources-dsa-efc0930efbd9
-R2-pattern: https://www.javatpoint.com/star-program-in-c
